@@ -1,2 +1,2 @@
 # food
-make money through food
+working through food
